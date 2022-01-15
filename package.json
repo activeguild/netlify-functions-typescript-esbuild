@@ -1,0 +1,27 @@
+{
+  "name": "netlify-function-typescript-esbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "tsc": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/activeguild/netlify-function-typescript-esbuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/activeguild/netlify-function-typescript-esbuild/issues"
+  },
+  "homepage": "https://github.com/activeguild/netlify-function-typescript-esbuild#readme",
+  "devDependencies": {
+    "netlify-cli": "^8.8.2",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@netlify/functions": "^0.10.0"
+  }
+}
