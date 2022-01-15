@@ -1,0 +1,1 @@
+# netlify-function-typescript-esbuild
